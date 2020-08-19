@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "qr-scanner-slim"
+    }
+  },
+  "defaultProject": "qr-scanner-slim",
+  "cli": {
+    "analytics": false
+  }
 }
